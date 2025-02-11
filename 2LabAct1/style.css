@@ -1,0 +1,52 @@
+body {
+    background-color: whitesmoke;
+}
+.form-container {
+    border-radius : 15px;
+    background-color: white;
+    padding: 20px;
+    width: 380px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-size: small;
+    color: black;
+}
+
+button {
+    color: white;
+    border: none;
+    border-radius: 5px;
+    background-color: #2B79D1;
+    min-width: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.button-submit {
+    color: white;
+    border: none;
+    border-radius: 5px;
+    background-color: #2B79D1;
+    min-width: 150px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.button-reset {
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: white;
+    min-width: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
