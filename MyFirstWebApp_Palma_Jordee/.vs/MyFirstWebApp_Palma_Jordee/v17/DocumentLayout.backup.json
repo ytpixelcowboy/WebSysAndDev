@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\WebSysAndDev\\MyFirstWebApp_Palma_Jordee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86C91B3F-1685-410C-95CD-AE7F1F72949F}|MyFirstWebApp_Palma_Jordee.csproj|e:\\projects\\websysanddev\\myfirstwebapp_palma_jordee\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86C91B3F-1685-410C-95CD-AE7F1F72949F}|MyFirstWebApp_Palma_Jordee.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C91B3F-1685-410C-95CD-AE7F1F72949F}|MyFirstWebApp_Palma_Jordee.csproj|e:\\projects\\websysanddev\\myfirstwebapp_palma_jordee\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86C91B3F-1685-410C-95CD-AE7F1F72949F}|MyFirstWebApp_Palma_Jordee.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Projects\\WebSysAndDev\\MyFirstWebApp_Palma_Jordee\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
+              "ToolTip": "E:\\Projects\\WebSysAndDev\\MyFirstWebApp_Palma_Jordee\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T05:30:53.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Projects\\WebSysAndDev\\MyFirstWebApp_Palma_Jordee\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "E:\\Projects\\WebSysAndDev\\MyFirstWebApp_Palma_Jordee\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T05:29:53.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

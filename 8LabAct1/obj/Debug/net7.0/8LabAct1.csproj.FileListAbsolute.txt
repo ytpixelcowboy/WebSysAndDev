@@ -1,0 +1,15 @@
+E:\Projects\WebSysAndDev\8LabAct1\bin\Debug\net7.0\8LabAct1.exe
+E:\Projects\WebSysAndDev\8LabAct1\bin\Debug\net7.0\8LabAct1.deps.json
+E:\Projects\WebSysAndDev\8LabAct1\bin\Debug\net7.0\8LabAct1.runtimeconfig.json
+E:\Projects\WebSysAndDev\8LabAct1\bin\Debug\net7.0\8LabAct1.dll
+E:\Projects\WebSysAndDev\8LabAct1\bin\Debug\net7.0\8LabAct1.pdb
+E:\Projects\WebSysAndDev\8LabAct1\obj\Debug\net7.0\8LabAct1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\WebSysAndDev\8LabAct1\obj\Debug\net7.0\8LabAct1.AssemblyInfoInputs.cache
+E:\Projects\WebSysAndDev\8LabAct1\obj\Debug\net7.0\8LabAct1.AssemblyInfo.cs
+E:\Projects\WebSysAndDev\8LabAct1\obj\Debug\net7.0\8LabAct1.csproj.CoreCompileInputs.cache
+E:\Projects\WebSysAndDev\8LabAct1\obj\Debug\net7.0\8LabAct1.sourcelink.json
+E:\Projects\WebSysAndDev\8LabAct1\obj\Debug\net7.0\8LabAct1.dll
+E:\Projects\WebSysAndDev\8LabAct1\obj\Debug\net7.0\refint\8LabAct1.dll
+E:\Projects\WebSysAndDev\8LabAct1\obj\Debug\net7.0\8LabAct1.pdb
+E:\Projects\WebSysAndDev\8LabAct1\obj\Debug\net7.0\8LabAct1.genruntimeconfig.cache
+E:\Projects\WebSysAndDev\8LabAct1\obj\Debug\net7.0\ref\8LabAct1.dll
